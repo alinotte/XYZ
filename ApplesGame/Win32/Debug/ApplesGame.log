@@ -1,0 +1,27 @@
+﻿  Apple.cpp
+  Game.cpp
+  GameMain.cpp
+  Math.cpp
+  Player.cpp
+  Rock.cpp
+C:\Source\XYZ\apples_game\ApplesGame\Apple.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Apple.cpp')
+  
+C:\Source\XYZ\apples_game\ApplesGame\Game.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Game.cpp')
+  
+C:\Source\XYZ\apples_game\ApplesGame\GameMain.cpp(1,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+C:\Source\XYZ\apples_game\ApplesGame\Math.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Math.cpp')
+  
+C:\Source\XYZ\apples_game\ApplesGame\Player.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Player.cpp')
+  
+C:\Source\XYZ\apples_game\ApplesGame\Rock.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Rock.cpp')
+  
+  UI.cpp
+C:\Source\XYZ\apples_game\ApplesGame\Game.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'UI.cpp')
+  
+  Generating Code...
